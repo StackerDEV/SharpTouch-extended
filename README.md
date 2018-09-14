@@ -3,7 +3,7 @@
 Project git cloned from https://github.com/finalpatch/SharpTouch
 
 This project has added functionality because some hardware vendors ship Synaptics driver software that not all people like.
-Therefor I've exnteded SharpTouch. Hence the name, SharpTouch-extended. 
+Therefore I've extended Sharp Touch. Hence the name, Sharp Touch-extended. 
 
 ## Why
 
