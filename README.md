@@ -2,12 +2,12 @@
 
 Project git cloned from https://github.com/finalpatch/SharpTouch
 
-This project has added functionality because some hardware venders ship Synaptics driver software that not all people like.
-Therefor I've exnteded SharpTouch. Hence the name, SharpTouch-extended. 
+This project has added functionality because some hardware vendors ship Synaptics driver software that not all people like.
+Therefore I've extended Sharp Touch. Hence the name, Sharp Touch-extended. 
 
 ## Why
 
-The project itself was functional but it was missing some options compared to the vender Synaptics frontend, so these "extra" options have been added.
+The project itself was functional but it was missing some options compared to the vendor Synaptics frontend, so these "extra" options have been added.
 
 ## Todo
 
