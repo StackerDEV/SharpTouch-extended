@@ -407,7 +407,7 @@ namespace SharpTouch
 
         private void m_exit_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            this.Hide();
         }
 
         private void m_autoStart_CheckedChanged(object sender, EventArgs e)
